@@ -1,6 +1,3 @@
-from multiprocessing import ProcessError
-
-
 def modify_file(input_file, output_file):
     """
     Reads the content of the input file, modifies it, and writes it to the output file.
